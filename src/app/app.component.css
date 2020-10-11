@@ -1,0 +1,56 @@
+.row-background {
+    background: #eeeeee;
+}
+
+.card-title {
+    color    : #e0e0e0;
+    font-size: 18px;
+}
+
+.card-body {
+    background-image: linear-gradient(to bottom, #083578, #284f95, #406ab4, #5786d3, #6fa4f2);
+}
+
+.card-text {
+    color    : white;
+    font-size: 14px;
+}
+
+.author {
+    font-weight: bold;
+    color: #1d2669;
+}
+
+.pagination-right{
+    text-align: right;
+    padding: 10px;
+}
+.apply-card-height{
+    height: 325px;
+}
+.remove-card-height{
+    height: 100%;
+}
+.read-more{
+    color: #eeeeee;
+    font-size: 14px;
+}
+.comment-body{
+    background: white;
+    border-radius: 10px;
+    font-size: 13px;
+}
+.comment-title{
+    border-radius: 8px 8px 0px 0px;
+    padding: 5px;
+    background: lightgray;
+    border-bottom: 1px solid black
+}
+.comment-data{
+    padding: 5px;
+    /* background: lightgray;
+    border-bottom: 1px solid black */
+}
+.btn-background{
+    background: #6206f7;
+}
